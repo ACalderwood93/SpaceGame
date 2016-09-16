@@ -51,7 +51,7 @@ namespace SpaceGame
             TimeManager.time = 0;
             Renderer.init(GraphicsDevice);
             oldState = Keyboard.GetState();
-            ScoreManager.Score = 0;
+            ScoreManager.Score = -1;
             cam = new Camera2D(GraphicsDevice.Viewport, new Vector2(player.x, player.y));
             offset =  new Vector2(Background.x - player.x ,Background.y- player.y);
 
