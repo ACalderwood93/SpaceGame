@@ -1,0 +1,259 @@
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Backgrounds\black.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Backgrounds\blue.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Backgrounds\darkPurple.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Backgrounds\purple.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big1.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big2.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big3.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big4.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med1.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med3.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small1.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small2.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny1.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny2.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\laser.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Player\Lasers\laserBlue01.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Player\playerShip.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Rocks.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\spaceship.png
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\stars.jpg
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Laser.wav
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Sounds\background.wma
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Sounds\background.xnb
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Sounds\Laser.xnb
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\Content\Sounds\Laser.wav
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SpaceGame.exe
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SpaceGame.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\obj\x86\Debug\SpaceGame.exe
+C:\Users\Andrew\documents\visual studio 2013\Projects\TowerDefence\TowerDefence\obj\x86\Debug\SpaceGame.pdb
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\black.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\blue.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\darkPurple.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\purple.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big1.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big2.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big3.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big4.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med1.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med3.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small1.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small2.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny1.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny2.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\laser.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\Lasers\laserBlue01.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\playerShip.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Rocks.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\spaceship.png
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\stars.jpg
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Laser.wav
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.wma
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.xnb
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.xnb
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.wav
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.exe
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.pdb
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\FarseerPhysics MonoGame.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andrew\Documents\visual studio 2013\Projects\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\black.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\blue.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\darkPurple.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\purple.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big1.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big2.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big3.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big4.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med1.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med3.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small1.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small2.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny1.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny2.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\laser.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\Lasers\laserBlue01.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\playerShip.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Rocks.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\spaceship.png
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\stars.jpg
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.wav
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.exe
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.pdb
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Laser.wav
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.wma
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.xnb
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.xnb
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Score.spritefont
+C:\Users\Andrew\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Score.xnb
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\black.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\blue.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\darkPurple.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\purple.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big1.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big2.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big3.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big4.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med1.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med3.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small1.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small2.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny1.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny2.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\laser.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\Lasers\laserBlue01.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\playerShip.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Rocks.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\spaceship.png
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\stars.jpg
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Score.spritefont
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.wav
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.exe
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.pdb
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.csprojResolveAssemblyReference.cache
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Laser.wav
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Score.xnb
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.wma
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.xnb
+C:\Users\andrew.calderwood.Dev-Lap-10\Google Drive\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.xnb
+D:\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.exe
+D:\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.pdb
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\black.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\blue.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\darkPurple.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Backgrounds\purple.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big1.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big2.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big3.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_big4.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med1.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_med3.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small1.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_small2.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny1.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Enemies\Meteors\meteorBrown_tiny2.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\laser.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\Lasers\laserBlue01.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Player\playerShip.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Rocks.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\spaceship.png
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\stars.jpg
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Laser.wav
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Score.xnb
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Score.spritefont
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.wma
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\background.xnb
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.xnb
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\Content\Sounds\Laser.wav
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.exe
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SpaceGame.pdb
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\MonoGame.Framework.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.XInput.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\SpaceGame\SpaceGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\SpaceGame\SpaceGame\obj\x86\Debug\SpaceGame.csprojResolveAssemblyReference.cache
